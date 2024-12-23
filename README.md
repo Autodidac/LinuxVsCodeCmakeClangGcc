@@ -1,2 +1,2 @@
-# cpp_repo_template
-A template repo to clone from
+# LinuxVsCodeCmakeClangGcc
+A Vscode CMake Library With App Project Template with Gcc and Clang Configurations
